@@ -5,7 +5,7 @@ import subprocess
 from ctypes import *
 
 #--------------Sahil Bisla---------------#
-proc_name = "com.tencent.ig"
+proc_name = "com.tencent.iglite"
 module_name = "libUE4.so"
 
 maps_file = None
